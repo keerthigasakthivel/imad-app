@@ -1,6 +1,8 @@
 body {
     font-family: sans-serif;
-    background-color: lightgrey;
+    background-color:  lightgrey;
+    BORDER:2PX solid red;
+    margin:auto;
     margin-top: 75px;
 }
 
