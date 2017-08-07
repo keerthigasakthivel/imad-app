@@ -9,25 +9,17 @@ var art={
         title:' article | keerthi',
         heading:'article one',
         content:` <p>
-                this my article.this my article
-            this my article
-            this my article
-            this my article
-            this my article
-            this my article
-            this my article
-
-        
-            </p>
-            <p>
-                this my article
-            this my article
-            this my article
-            this my article
-            this my article
+       it has official status in the Indian state of Tamil Nadu and the Indian Union Territory of Puducherry.
+It is also used as one of the languages of education in Malaysia, along with English, Malay and Mandarin.
+Tamil is one of the longest-surviving classical languages in the world.
+      Tamil-Brahmi inscriptions from 500 BC have been found on Adichanallur[17] and 2,200-year-old Tamil-Brahmi inscriptions have been found on it.
+      Tamil became the first legally recognised Classical language of India. The recognition was announced by the contemporaneous President of India, Abdul Kalam, in a joint sitting of both houses of the Indian Parliament on 6 June 2004.
             
-          </p>`  
+            <img src="s6.jpg" width="500px" height="500px">
+            </p>`
+    
     },
+    
     'a2':
     {
     title:' article | keerthi',
