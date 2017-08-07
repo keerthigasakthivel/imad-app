@@ -15,7 +15,7 @@ Tamil is one of the longest-surviving classical languages in the world.
       Tamil-Brahmi inscriptions from 500 BC have been found on Adichanallur[17] and 2,200-year-old Tamil-Brahmi inscriptions have been found on it.
       Tamil became the first legally recognised Classical language of India. The recognition was announced by the contemporaneous President of India, Abdul Kalam, in a joint sitting of both houses of the Indian Parliament on 6 June 2004.
             
-            <img src="s6.jpg" width="500px" height="500px">
+            <img src="C:\Users\maha\Downloads\s6.jpg" width="500px" height="500px">
             </p>`
     
     },
