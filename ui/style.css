@@ -22,4 +22,8 @@ body {
 .img-medium {
     height: 200px;
 }
-
+head
+{
+    font-size:30px;
+    font-color:red;
+}
