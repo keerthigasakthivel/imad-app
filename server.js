@@ -16,8 +16,8 @@ var art={
             this my article
             this my article
             this my article
-            this my article
-            
+
+        
             </p>
             <p>
                 this my article
